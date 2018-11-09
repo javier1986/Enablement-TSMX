@@ -1,9 +1,10 @@
-Playbooks and roles of Enablement Workshop for TSMX
+Playbooks and roles of Enablement Workshop for T-Systems
 =========
 
-Playbooks and roles of Enablement Workshopfor TSMX
+Playbooks and roles of Enablement Workshopfor T-Systems
 =========
 
 
-Playbooks and role used on TSMX Enablement Workshop
+Playbooks and role used on T-systems Enablement Workshop new
+
 
