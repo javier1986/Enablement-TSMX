@@ -1,0 +1,5 @@
+---
+- name: setup apache web servers
+  hosts: vms
+  roles:
+      - myapache

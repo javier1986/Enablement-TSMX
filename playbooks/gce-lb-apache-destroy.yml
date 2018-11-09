@@ -1,0 +1,6 @@
+---
+#Playbook to create todo de un chingadazo
+
+- import_playbook: gce-apache-destroy.yml
+- import_playbook: gce-lb-destroy.yml 
+
