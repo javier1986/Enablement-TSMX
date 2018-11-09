@@ -1,6 +1,0 @@
----
-#Playbook to create todo de un chingadazo
-
-- import_playbook: gce-apache.yml
-- import_playbook: gce-lb.yml
-

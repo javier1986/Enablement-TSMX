@@ -2,6 +2,6 @@
   hosts: all
   tasks:
   - authorized_key:
-      user=root
+      user=[usuario]
       state=present
-      key=" {{ lookup('file', 'id_rsa_ansible.pub') }}"
+      key=" {{ lookup('file', '[Tu llave]') }}"

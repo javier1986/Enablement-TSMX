@@ -6,7 +6,7 @@
       - name: Include the vars file
         include_vars: vars/vars.yml
       - name: Install the consumer RPM from the Satellite Server
-        shell: "rpm -Uvh http://srv5.tsmx.lab/pub/katello-ca-consumer-latest.noarch.rpm"
+        shell: "rpm -Uvh [your_server].rpm"
       - name: Register machine
         redhat_subscription:
           state: present
